@@ -1,0 +1,34 @@
+.vero{
+     background-color: #9f27cf;
+     height: 100px;
+     margin:20px;
+
+   }
+.maxi{
+       background-color: #630fff;
+       height: 100px;
+       margin: 50px;
+         
+   }
+.sofi{
+      background-color: chartreuse;
+      height: 100px;
+      margin: 20px;
+}
+.mora{
+      background-color:#ff0000;
+      height: 100px;
+}
+.messi{
+      background-color: rgb(255, 193, 36);
+      height: 100px;
+      margin: 20px;
+
+      
+      
+
+
+}                                          
+    
+                                                                                                     
+   

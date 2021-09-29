@@ -1,0 +1,44 @@
+.loli{
+      background-color: rgb(83, 8, 223);
+      height: 140px;
+      margin: 40px; 
+}
+.sofi{
+      background-color: rgb(228, 59, 21);
+      height: 120px;  
+}
+.kuki{
+     background-color: rgb(0, 255, 115);
+     height: 150px;
+     margin: 20px;
+     width: 160px;
+}
+.perlita{
+     background-color: rgba(179, 255, 0, 0.795);
+     height: 120px;
+}
+.milo{
+      background-color: rgba(255, 0, 212, 0.288);
+      height: 150px;
+      margin: 20px;
+}
+.pupi{
+      background-color: rgb(209, 0, 105);
+      height: 200px;
+      margin: 4px;
+      width: 90px;
+      
+     
+
+}
+      
+
+
+
+     
+
+
+
+      
+      
+
